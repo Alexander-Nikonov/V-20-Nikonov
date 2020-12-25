@@ -1,0 +1,3 @@
+include ':nikonov-v-20'
+include ':app'
+rootProject.name = "Nikonov-v-20"
